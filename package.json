@@ -1,0 +1,11 @@
+{
+  "name": "specialbutton",
+  "version": "1.0.0",
+  "description": "Animation APP",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Rezende",
+  "license": "ISC"
+}
